@@ -5,6 +5,7 @@
 This project focuses on improving customer churn prediction through business-driven feature engineering. The objective is to transform raw customer data into meaningful features that improve the performance and interpretability of a machine learning model.
 
 The project was completed using Python and Scikit-learn, with a Random Forest classifier used for churn prediction.
+This repository presents an enhanced version of a customer churn prediction task completed as part of the **BCG Data Science Virtual Experience Program** on Forage.
 
 ---
 
@@ -26,9 +27,10 @@ The dataset contains customer information including:
 - Pricing information
 - Contract information
 - Customer churn label
-- The dataset used in this project was provided as part of the **BCG Data Science Virtual Experience Program** on Forage.
 
-- The dataset is not included in this repository due to redistribution considerations. Users interested in reproducing the analysis can access it through the Forage program.
+The dataset used in this project was provided as part of the **BCG Data Science Virtual Experience Program** on Forage.
+
+The dataset is not included in this repository due to redistribution considerations. Users interested in reproducing the analysis can access it through the Forage program.
 
 ---
 
@@ -93,6 +95,11 @@ The model was evaluated using:
 - Matplotlib
 - Scikit-learn
 - Jupyter Notebook
+- Git
+- GitHub
+
+---
+
 
 ---
 
@@ -128,3 +135,5 @@ The enhancements were implemented independently to strengthen my practical skill
 Neeru Neeru
 
 Aspiring Data Analyst | Machine Learning | Python | SQL | Power BI
+
+GitHub: https://github.com/NeeruSisodia
