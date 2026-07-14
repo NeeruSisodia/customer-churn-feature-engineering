@@ -99,7 +99,35 @@ The model was evaluated using:
 - GitHub
 
 ---
+## Project Structure
 
+```text
+customer-churn-feature-engineering/
+│
+├── README.md
+├── customer_churn_feature_engineering.ipynb
+├── requirements.txt
+├── .gitignore
+├── Images/
+│   ├── confusion_matrix.png
+│   ├── roc_curve.png
+│   └── feature_importance.png
+```
+
+---
+## Project Visualizations
+
+### Confusion Matrix
+
+![Confusion Matrix](Images/confusion_matrix.png)
+
+### ROC Curve
+
+![ROC Curve](Images/roc_curve.png)
+
+### Feature Importance
+
+![Feature Importance](Images/feature_importance.png)
 
 ---
 
