@@ -6,4 +6,5 @@ __pycache__/
 .vscode/
 .DS_Store
 # Ignore datasets
-*.csv
+clean_data_after_eda.csv
+price_data.csv
