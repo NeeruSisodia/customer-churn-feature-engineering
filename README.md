@@ -26,6 +26,9 @@ The dataset contains customer information including:
 - Pricing information
 - Contract information
 - Customer churn label
+- The dataset used in this project was provided as part of the **BCG Data Science Virtual Experience Program** on Forage.
+
+- The dataset is not included in this repository due to redistribution considerations. Users interested in reproducing the analysis can access it through the Forage program.
 
 ---
 
@@ -100,6 +103,23 @@ The model was evaluated using:
 - XGBoost and LightGBM comparison
 - Streamlit deployment
 - Power BI dashboard
+
+---
+
+## Acknowledgements
+
+This project is based on the **BCG Data Science Virtual Experience Program** on Forage.
+
+The original task has been significantly enhanced as part of my personal learning portfolio by adding:
+
+- Business-driven feature engineering
+- Detailed feature explanations
+- Confusion Matrix and ROC Curve
+- Feature Importance analysis
+- Business insights and conclusions
+- Improved project documentation and GitHub structure
+
+The enhancements were implemented independently to strengthen my practical skills in machine learning and customer churn prediction.
 
 ---
 
